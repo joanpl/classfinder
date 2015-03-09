@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 12:57:56 GMT 2015
+http\://downloads.planetmirror.com/pub/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:1.2.2.RELEASE from/to planetmirror.com (http\://downloads.planetmirror.com/pub/maven2)\: downloads.planetmirror.com
+@default-http\://downloads.planetmirror.com/pub/maven2/.lastUpdated=1425646676919

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 06 12:57:56 GMT 2015
+http\://downloads.planetmirror.com/pub/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-bom\:pom\:3.2.6.RELEASE from/to planetmirror.com (http\://downloads.planetmirror.com/pub/maven2)\: downloads.planetmirror.com
+http\://10.20.41.72\:8081/content/groups/public/.lastUpdated=1425646676873
+@default-http\://downloads.planetmirror.com/pub/maven2/.lastUpdated=1425646676810
